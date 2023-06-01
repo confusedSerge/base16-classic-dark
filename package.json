@@ -1,0 +1,21 @@
+{
+    "name": "base16-classic-dark",
+    "displayName": "base16-classic-dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.78.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Base16 Classic Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Base16 Classic Dark-color-theme.json"
+            }
+        ]
+    }
+}
